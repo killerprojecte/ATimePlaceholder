@@ -1,0 +1,6 @@
+name: ATimePlaceholder
+version: '${version}'
+main: flyproject.atimeplaceholder.ATimePlaceholder
+api-version: 1.13
+softdepend: [ ATime, PlaceholderAPI ]
+authors: [ FlyProject ]
